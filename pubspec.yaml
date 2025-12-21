@@ -1,6 +1,6 @@
 name: nbp_custom_widgets
 description: "Custom Flutter widgets and components designed for clean and scalable UI development."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Naga283/custom_widgets.git
 repository: https://github.com/Naga283/custom_widgets.git
 issue_tracker: https://github.com/Naga283/custom_widgets.git/issues
@@ -10,6 +10,10 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
+  url_launcher: ^6.1.7
+  chewie: ^1.13.0
+  video_player: ^2.10.1
+  visibility_detector: ^0.4.0+2
   flutter:
     sdk: flutter
 
